@@ -1,3 +1,29 @@
+# 1. IGBO DICTIONARY by Eke Sonia(20 words)
+igbo_dict = {
+    "buy": "Zụta", 
+    "sell": "Ree", 
+    "read": "Gụọ", 
+    "water": "Mmiri", 
+    "food": "Nri",
+    "man": "Nwoke", 
+    "woman": "Nwanyị", 
+    "child": "Nwa", 
+    "house": "Ụlọ", 
+    "school": "Ụlọ akwụkwọ",
+    "book": "Akwụkwọ", 
+    "friend": "Enyi", 
+    "money": "Ego", 
+    "sleep": "Rahụ ụra", 
+    "run": "Gbaa ọsọ",
+    "see": "Hụ", 
+    "love": "Ịhụnanya", 
+    "work": "Ọrụ", 
+    "god": "Chineke", 
+    "good": "Ọma"
+}
+
+
+
 # 3. IBIBIO DICTIONARY (20 words)
 ibibio_dict = {
     "buy": "de",
