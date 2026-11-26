@@ -25,6 +25,32 @@ ibibio_dict = {
 
 
 
+# 4. ETSAKO DICTIONARY by victor onoshioagbe Blessing (20 words)
+etsako_dict = {
+    "buy": "Dẹ", 
+    "sell": "kie", 
+    "read": "Zẹ", 
+    "water": "Amẹ", 
+    "food": "Ema",
+    "man": "Ọzawo", 
+    "woman": "Ọkpotsot", 
+    "child": "Ọmọ", 
+    "house": "Owa", 
+    "school": "Owowẹna",
+    "book": "Ebe", 
+    "friend": "Ukuekhia", 
+    "money": "Igho", 
+    "sleep": "ogwe", 
+    "run": "Na",
+    "see": "Miẹ", 
+    "love": "Uyemi", 
+    "work": "akanya", 
+    "god": "Ọghẹna", 
+    "good": "emeso"
+}
+
+
+
 
 
 # 5. IDOMA DICTIONARY (20 words)
