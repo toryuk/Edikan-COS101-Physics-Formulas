@@ -24,7 +24,7 @@ igbo_dict = {
 
 
 
-# 3. IBIBIO DICTIONARY (20 words)
+# 3. IBIBIO DICTIONARY by Edikan Ukpong (20 words)
 ibibio_dict = {
     "buy": "de",
     "sell": "nyam",
